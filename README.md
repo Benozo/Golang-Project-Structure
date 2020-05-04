@@ -9,7 +9,7 @@ This is a sample structure for managing Go projects which provides versioning fo
 
 ## STRUCTURE
 
-<img src="https://cdn.ednsquare.com/s/*/aae823b1-24d5-49b8-83c3-6ee62ded0e8f.png" width=400>
+<img src="https://cdn.ednsquare.com/s/*/aae823b1-24d5-49b8-83c3-6ee62ded0e8f.png" width=600>
 
 ## Directories
 
